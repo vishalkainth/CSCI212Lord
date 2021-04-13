@@ -19,7 +19,7 @@ import javax.swing.*;
  * 
  */
 
-public class Main {
+public class Project0 {
     public static int upperCase = 0;        // Static variables belong to a class. There is only one variable for every instance of the class. Assigned at zero.
     public static int lowerCase = 0;
 
