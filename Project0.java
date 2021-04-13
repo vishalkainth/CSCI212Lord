@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 /**
  * @author Vishal Kainth
  * @professor Cuiyuan Wang
@@ -18,6 +16,8 @@ import javax.swing.*;
  *      5) INFORMATION_MESSAGE: static JOptionPane field
  * 
  */
+
+import javax.swing.*;
 
 public class Project0 {
     public static int upperCase = 0;        // Static variables belong to a class. There is only one variable for every instance of the class. Assigned at zero.
